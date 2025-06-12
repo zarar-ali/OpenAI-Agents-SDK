@@ -1,4 +1,4 @@
-# Chainlit Learning Repository
+# Chainlit Learning
 
 Welcome to my Chainlit learning project!  
 This repository is focused on my journey to understand and build AI applications using **Chainlit** — an open-source framework to create conversational apps powered by LLMs.
