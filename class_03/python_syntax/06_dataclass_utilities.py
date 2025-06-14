@@ -242,4 +242,4 @@ if __name__ == "__main__":
     demo_astuple()
     demo_replace()
     demo_is_dataclass()
-    demo_fields() 
+    demo_fields()
