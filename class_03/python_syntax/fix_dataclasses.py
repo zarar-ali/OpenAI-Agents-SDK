@@ -55,4 +55,4 @@ def main():
 if __name__ == "__main__":
     print("===== DATACLASS DEMO =====")
     main()
-    print("===== DEMO COMPLETED =====") 
+    print("===== DEMO COMPLETED =====")
