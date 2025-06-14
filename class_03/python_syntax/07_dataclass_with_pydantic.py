@@ -333,4 +333,4 @@ def demo_mixed_validation():
 if __name__ == "__main__":
     demo_pydantic_dataclass()
     demo_pydantic_model()
-    demo_mixed_validation() 
+    demo_mixed_validation()
