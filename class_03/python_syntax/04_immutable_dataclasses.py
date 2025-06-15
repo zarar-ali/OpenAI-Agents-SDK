@@ -188,4 +188,4 @@ if __name__ == "__main__":
     print("\n=== BAD IMMUTABLE DATACLASS EXAMPLES ===")
     demo_bad_immutable()
     
-    demo_init_issues()
+    demo_init_issues() 
