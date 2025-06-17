@@ -1,2 +1,2 @@
 def main() -> None:
-    print("Hello from GIAIC!")
+    print("Hello from GIAIC!") 
