@@ -20,4 +20,4 @@ def add_and_stringify(x: int, y: int) -> str:
 
 calc = Calculator(operation=add_and_stringify)
 
-print(calc(5, 12))  # Outputs: '12' 
+print(calc(5, 12))  # Outputs: '12'
