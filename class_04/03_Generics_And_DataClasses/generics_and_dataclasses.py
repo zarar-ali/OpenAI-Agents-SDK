@@ -164,4 +164,4 @@ stack_of_strings.push("world")
 print(stack_of_strings.pop())  # 'world'
 
 print(Stack.limit)
-print(stack_of_ints.limit) 
+print(stack_of_ints.limit)
