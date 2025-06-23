@@ -80,3 +80,4 @@ if __name__ == "__main__":
     
     print("\n=== BAD REGULAR CLASS EXAMPLES ===")
     demo_bad_usage()
+    
