@@ -62,3 +62,4 @@ if __name__ == "__main__":
     print("=== SIMPLIFIED DATACLASS EXAMPLE ===")
     main()
     print("\nProgram completed successfully")
+    
