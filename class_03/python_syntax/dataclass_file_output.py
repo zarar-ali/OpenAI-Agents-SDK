@@ -82,4 +82,3 @@ def main():
 if __name__ == "__main__":
     main()
     print("Demonstration completed. Check dataclass_output.txt for results.")
-    
