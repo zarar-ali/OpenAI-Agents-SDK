@@ -56,4 +56,3 @@ if __name__ == "__main__":
     print("===== DATACLASS DEMO =====")
     main()
     print("===== DEMO COMPLETED =====")
-    
