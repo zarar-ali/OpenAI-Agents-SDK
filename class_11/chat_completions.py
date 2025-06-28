@@ -23,7 +23,7 @@ set_tracing_disabled(disabled=True)
 async def main():
     # This agent will use the custom LLM provider
     agent = Agent(
-        name="LahoreTA",
+        name="Assistant",
         instructions="You only respond in english.",
         model=OpenAIChatCompletionsModel(model=MODEL, openai_client=client),
     )
