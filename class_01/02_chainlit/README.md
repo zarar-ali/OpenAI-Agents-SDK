@@ -65,7 +65,6 @@ This combination allows me to create fully interactive, agent-powered apps using
 - Build a full-stack LLM-powered assistant.
 - Integrate memory, tools, and multi-step reasoning.
 - Compare UI experience with and without Chainlit.
-
 ---
 
 ## 🔧 Getting Started (Setup Guide)
