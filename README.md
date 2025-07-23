@@ -290,6 +290,7 @@ booking_agent = Agent(
     instructions="Help users book tickets",
     tools=[book_ticket]
 )
+# Create specialized refund agents
 refund_agent = Agent(
     name="Refund Agent",
     instructions="Help users with refunds",
