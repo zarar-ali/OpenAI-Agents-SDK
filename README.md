@@ -339,6 +339,7 @@ asyncio.run(main())
 
 ## Resources
 
+
 - [OpenAI Agents SDK Official Documentation](https://openai.github.io/openai-agents-python/)
 - [OpenAI Agents SDK Quickstart](https://openai.github.io/openai-agents-python/quickstart/)
 - [OpenAI Platform Developer Resources](https://platform.openai.com/docs/guides/agents)
