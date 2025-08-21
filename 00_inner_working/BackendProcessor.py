@@ -45,7 +45,7 @@ agent = Agent(
 )
 
 # ✅ STEP 5: Wrap in a custom trace
-with trace("Subhan workflow"):
+with trace("Shahid workflow"):
     result = Runner.run_sync(
         agent,
         input="how are you"
