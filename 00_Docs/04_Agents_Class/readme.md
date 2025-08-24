@@ -18,6 +18,7 @@ The Agent is set up with the following components:
 
 ---
 
+
 ## 🔷 2. User Input
 
 - The user sends a message.
