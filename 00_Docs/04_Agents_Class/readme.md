@@ -96,7 +96,3 @@ The **Agent Class** serves as an intelligent system that:
 4. Generates a response.
 5. Applies monitoring and customization.
 6. Returns a final polished result to the user.
-
-
-
-
