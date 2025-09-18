@@ -3,6 +3,7 @@
 This repository provides a beginner-friendly guide to learning the **OpenAI Agents SDK**, a Python library for building intelligent AI agents powered by large language models (LLMs) like GPT-4o. Whether you have zero coding experience or are new to AI, this guide walks you through creating and running agents step by step with detailed explanations and code examples.
 
 
+
 ## Table of Contents
 - [What is the OpenAI Agents SDK?](#what-is-the-openai-agents-sdk)
 - [Prerequisites](#prerequisites)
